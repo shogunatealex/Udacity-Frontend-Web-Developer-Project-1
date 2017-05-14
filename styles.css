@@ -1,1 +1,37 @@
-/* add your CSS here */
+.center{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.italics{
+  font-style: italic;
+}
+
+.list-items{
+  padding: 0;
+  list-style-type: none;
+}
+
+.bold{
+  font-weight:bold;
+}
+
+#card-outside{
+  box-shadow: 10px 10px 5px #A09F9F;
+  width: 340px;
+  border: 1px;
+  border-color: #D3D3D3;
+  border-style: solid;
+}
+
+#information{
+  padding-left: 5px;
+  padding-right: 5px;
+  font-family: helvetica,sans-serif;
+  font-size: 11px;
+  border: 1px;
+  border-color: #D3D3D3;
+  border-style: solid;
+  margin-bottom:10px;
+  margin-top: 10px;
+}
